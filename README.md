@@ -13,7 +13,7 @@ This project focuses on the development of a Python logbook for analyzing Tesco 
 
 **Social Network**
 
-The objective of the LBAW web project was to create a web program similar to a social network. It was developed using the PHP framework Laravel and Docker.
+The objective of the LBAW web project was to create a website similar to a social network. It was developed using the PHP framework Laravel and Docker.
 
 ## Programming Languages and Frameworks
 
