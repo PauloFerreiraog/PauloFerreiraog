@@ -1,25 +1,5 @@
 # README
 
-## Work Experience
-
-**Paulo Francisco da Costa Ferreira**
-
-- **FABAMAQ Internship**
-- Duration: 03/2022 - 07/2022
-- Web Gaming Department
-
-During the internship at FABAMAQ, I was responsible for analyzing various market options and implementing a system to obtain, visualize, and analyze metrics related to player interaction with web casino games.
-
-## Education
-
-- **Bachelor of Informatics and Computing Engineering - FEUP**
-- Currently Attending
-
-I transferred to the Bachelor's program when all Integrated Master's programs were terminated by the University.
-
-- **Integrated Master's in Network and Information Systems Engineering - FCUP**
-- Previous Course
-
 
 
 
@@ -33,7 +13,6 @@ This project focuses on the development of a Python logbook for analyzing Tesco 
 
 The objective of the LBAW web project was to create a web program similar to a social network. It was developed using the PHP framework Laravel and Docker.
 
-Please feel free to reach out to me if you have any questions or inquiries.
 
 ## Programming Languages
 
