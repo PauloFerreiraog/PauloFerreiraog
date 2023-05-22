@@ -20,9 +20,6 @@ I transferred to the Bachelor's program when all Integrated Master's programs we
 - **Integrated Master's in Network and Information Systems Engineering - FCUP**
 - Previous Course
 
-## Digital Skills
-
-I am a computer engineering student with a strong passion for programming. I am eager to learn and committed to continuous professional development.
 
 
 
@@ -38,8 +35,9 @@ The objective of the LBAW web project was to create a web program similar to a s
 
 Please feel free to reach out to me if you have any questions or inquiries.
 
+## Programming Languages
 
-- Programming Languages:
+
   - ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=C&logoColor=white)
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
   - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
