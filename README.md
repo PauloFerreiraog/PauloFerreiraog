@@ -3,7 +3,7 @@
 
 
 
-## AI GitHub Project
+## AI Python
 
 **Python Logbook for Tesco Customer Data Analysis**
 
