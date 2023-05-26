@@ -15,7 +15,7 @@ This project focuses on the development of a Python logbook for analyzing Tesco 
 
 The objective of the LBAW web project was to create a website similar to a social network. It was developed using the PHP framework Laravel and Docker.
 
-## Programming Languages and Frameworks
+# Programming Languages and Frameworks
 
 - ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=C&logoColor=white)
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
